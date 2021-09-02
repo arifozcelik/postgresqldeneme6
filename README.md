@@ -1,0 +1,1 @@
+# postgresqldeneme6
